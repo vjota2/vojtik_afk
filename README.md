@@ -7,4 +7,4 @@ Afk player status for fivem servers
 3) Start/Restart your server
 
 ## Thread link with preview ##
--- soon
+[Click me!](https://forum.cfx.re/t/standalone-vojtik-afk-afk-on-server-with-style/3438848?u=vjota2)
